@@ -351,6 +351,7 @@ bd_part_error_quark
 
 <SECTION>
 <FILE>fs</FILE>
+
 BDFSExt4Info
 BDFsError
 bd_fs_error_quark
